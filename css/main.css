@@ -1,4 +1,5 @@
 /*! HTML5 Boilerplate v5.0 | MIT License | http://h5bp.com/ */
+@import url(http://fonts.googleapis.com/css?family=Bangers);
 
 html {
     color: #222;
@@ -89,6 +90,7 @@ body {
 }
 
 .title {
+    font-family: 'Bangers', cursive;
     color: white;
 }
 
@@ -109,12 +111,12 @@ nav a {
 
     text-align: center;
     text-decoration: none;
+
+    font-size: .85em;
     font-weight: bold;
 
     color: white;
     background: #e44d26;
-
-    font-size: .75em;
 }
 
 nav a:hover,
@@ -129,6 +131,13 @@ nav a:hover {
 /* ==============
     MOBILE: Main
    ============== */
+.main-page-header{
+    /*background: #000 url('/img/banner.png') no-repeat left top;*/
+}
+
+.main-page-header img {
+    max-width: 100%;
+}
 
 .main {
     padding: 30px 0;
@@ -245,7 +254,7 @@ nav a:hover {
 
     .main article {
         /*float: left;*/
-        width: 75%;
+        width: 100%;
         clear: both;
     }
 

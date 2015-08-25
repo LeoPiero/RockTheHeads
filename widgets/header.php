@@ -29,7 +29,6 @@
 
         <div class="main-container">
             <div class="main wrapper clearfix">
-                <div class=" nav-container">
                     <nav>
                         <ul>
                             <li><a href="#">Home</a></li>
@@ -39,5 +38,4 @@
                             <li><a href="#">Shark Repellent Bat Spray</a></li> <!-- Consider random link generator based on batman searches in google -->
                         </ul>
                     </nav>
-                </div><br /> <br />
                 <article>
