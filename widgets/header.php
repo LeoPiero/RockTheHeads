@@ -10,7 +10,7 @@
         <meta name="description" content="">
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <link rel="apple-touch-icon" href="apple-touch-icon.png">
-
+        <link rel="stylesheet" href="https://ajax.googleapis.com/ajax/libs/jqueryui/1.11.4/themes/smoothness/jquery-ui.css">
         <link rel="stylesheet" href="css/normalize.min.css">
         <link rel="stylesheet" href="css/main.css">
 
@@ -22,17 +22,18 @@
         <![endif]-->
 
         <div class="header-container">
-            <header class="wrapper clearfix">
-                <a href="/"><h1 class="title">Rock The Heads</h1></a>
+            <header class="wrapper clearfix">                
+                <a href="/"><h1 class="title"><img src="/img/headerLogo.png" alt=""/> Rock The Heads</h1></a>
+
             </header>
         </div>
 
         <div class="main-container">
             <div class="main wrapper clearfix">
-                    <nav>
+                    <nav class="clearfix">
                         <ul>
-                            <li><a href="#">Home</a></li>
-                            <li><a href="#">Gallery</a></li>
+                            <li><a href="/">Home</a></li>
+                            <li><a href="gallery.php">Gallery</a></li>
                             <li><a href="#">Useful Stuff</a></li>
                             <li><a href="#">Shop</a></li>
                             <li><a href="#">Shark Repellent Bat Spray</a></li> <!-- Consider random link generator based on batman searches in google -->
