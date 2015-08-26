@@ -23,7 +23,7 @@
 
         <div class="header-container">
             <header class="wrapper clearfix">                
-                <a href="/"><h1 class="title"><img src="/img/headerLogo.png" alt=""/> Rock The Heads</h1></a>
+                <a href="/"><h1 class="title"><img src="/img/headerLogoFilled.png" alt=""/> Rock The Heads</h1></a>
 
             </header>
         </div>
