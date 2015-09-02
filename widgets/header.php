@@ -24,7 +24,10 @@
         <div class="header-container">
             <header class="wrapper clearfix">                
                 <a href="/"><h1 class="title"><img src="/img/headerLogoFilled.png" alt=""/> Rock The Heads</h1></a>
-
+                <ul class="subTitle">
+                    <li>Minecraft: mc.rocktheheads.com</li>
+                    <li>Teamspeak: talk.rocktheheads.com</li>
+                </ul>                
             </header>
         </div>
 
@@ -34,9 +37,9 @@
                         <ul>
                             <li><a href="/">Home</a></li>
                             <li><a href="gallery.php">Gallery</a></li>
-                            <li><a href="#">Useful Stuff</a></li>
+                            <li><a href="#">Tools</a></li>
                             <li><a href="#">Shop</a></li>
-                            <li><a href="#">Shark Repellent Bat Spray</a></li> <!-- Consider random link generator based on batman searches in google -->
+                            <li><a href="#" id="random-word" target="blank">Loading...</a></li> <!-- Consider random link generator based on batman searches in google -->
                         </ul>
                     </nav>
                 <article>
