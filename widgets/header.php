@@ -39,7 +39,7 @@
                             <li><a href="gallery.php">Gallery</a></li>
                             <li><a href="#">Tools</a></li>
                             <li><a href="#">Shop</a></li>
-                            <li><a href="#" id="random-word" target="blank">Loading...</a></li> <!-- Consider random link generator based on batman searches in google -->
+                            <li><a href="#" id="giveFive"><span id="fiver">Give me $5!</span><span id="ta">Thanks!</span></a></li>
                         </ul>
                     </nav>
                 <article>
