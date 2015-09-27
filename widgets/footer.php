@@ -9,7 +9,8 @@
 
         <div class="footer-container">
             <footer class="wrapper">
-                <h3>footer</h3>
+                <a href="http://www.facebook.com/rocktheheads"><i class="fa fa-facebook-square fa-3x"></i></a>
+                <h4>&copy; Vinci Labs <?php print date('Y'); ?></h4>
             </footer>
         </div>
 
