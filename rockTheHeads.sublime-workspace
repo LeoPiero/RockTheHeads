@@ -20,30 +20,6 @@
 	"buffers":
 	[
 		{
-			"file": "widgets/footer.php",
-			"settings":
-			{
-				"buffer_size": 1640,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "widgets/header.php",
-			"settings":
-			{
-				"buffer_size": 2293,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "css/main.css",
-			"settings":
-			{
-				"buffer_size": 6916,
-				"line_ending": "Unix"
-			}
-		},
-		{
 			"file": "gallery.php",
 			"settings":
 			{
@@ -55,7 +31,31 @@
 			"file": "index.php",
 			"settings":
 			{
-				"buffer_size": 1561,
+				"buffer_size": 1376,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "widgets/footer.php",
+			"settings":
+			{
+				"buffer_size": 1788,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "css/main.css",
+			"settings":
+			{
+				"buffer_size": 6966,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "widgets/header.php",
+			"settings":
+			{
+				"buffer_size": 2408,
 				"line_ending": "Unix"
 			}
 		},
@@ -73,32 +73,6 @@
 			{
 				"buffer_size": 1171,
 				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "commandScript/sendMoney.php",
-			"settings":
-			{
-				"buffer_size": 175,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "/home/webroot/bsTut/index.php",
-			"settings":
-			{
-				"buffer_size": 5283,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"contents": "Package Control Messages\n========================\n\nPackage Control:\n---------------\n\n  Version 3.1 Release Notes\n  \n  Package Control continues its focus on polish and fixing edge-case bugs. Some\n  of the changes in this version include:\n  \n   - quick panel for Install Package now stays open on Windows with recent\n     versions of ST3, even when focus is lost\n   - new \"downloader_precedence\" setting to allow users to use specific HTTP\n     backend due to network proxy or SSL issues\n   - added Install Local Dependency command for package developers to more\n     easily deal with dependencies during development\n   - improved handling of git/hg package upgrade errors\n   - better handling of locked .sublime-package files on Windows\n   - performance improvements for users with a large number of open windows\n  \n  For package developers, the list of available dependencies has been growing:\n  https://github.com/wbond/package_control_channel/blob/master/repository/dependencies.json\n  \n  Enjoy!\n  \n  ",
-			"settings":
-			{
-				"buffer_size": 1004,
-				"line_ending": "Unix",
-				"name": "Package Control Messages",
-				"scratch": true
 			}
 		}
 	],
@@ -144,6 +118,11 @@
 	],
 	"file_history":
 	[
+		"/home/webroot/rocktheheads.com/css/main.css",
+		"/home/webroot/rocktheheads.com/widgets/header.php",
+		"/home/webroot/rocktheheads.com/widgets/footer.php",
+		"/home/webroot/rocktheheads.com/commandScript/sendMoney.php",
+		"/home/webroot/bsTut/index.php",
 		"/home/webroot/rocktheheads.com/commandScript/commandCopy.sh",
 		"/home/webroot/rocktheheads.com/commandScript/commandScript.sh",
 		"/home/webroot/filehauler.com/NPI_Import/createTable.php",
@@ -269,101 +248,11 @@
 	"groups":
 	[
 		{
-			"selected": 9,
+			"selected": 2,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "widgets/footer.php",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 1640,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								735,
-								735
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/PHP/PHP.tmLanguage",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 8,
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "widgets/header.php",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 2293,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								2194,
-								2194
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/HTML/HTML.tmLanguage",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 408.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 6,
-					"type": "text"
-				},
-				{
-					"buffer": 2,
-					"file": "css/main.css",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 6916,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								3369,
-								3369
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/CSS/CSS.tmLanguage",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 3422.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 5,
-					"type": "text"
-				},
-				{
-					"buffer": 3,
 					"file": "gallery.php",
 					"semi_transient": false,
 					"settings":
@@ -389,24 +278,56 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 9,
+					"stack_index": 6,
 					"type": "text"
 				},
 				{
-					"buffer": 4,
+					"buffer": 1,
 					"file": "index.php",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 1561,
+						"buffer_size": 1376,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								0,
-								0
+								1376,
+								1376
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true,
+							"word_wrap": true,
+							"wrap_width": 0
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "widgets/footer.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1788,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								780,
+								786
 							]
 						],
 						"settings":
@@ -419,7 +340,67 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 7,
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "css/main.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 6966,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								807,
+								807
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": -0.0,
+						"translation.y": 765.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "widgets/header.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2408,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								947,
+								947
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
 					"type": "text"
 				},
 				{
@@ -444,7 +425,7 @@
 							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
 						},
 						"translation.x": 0.0,
-						"translation.y": 306.0,
+						"translation.y": 248.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 3,
@@ -478,91 +459,6 @@
 						"zoom_level": 1.0
 					},
 					"stack_index": 4,
-					"type": "text"
-				},
-				{
-					"buffer": 7,
-					"file": "commandScript/sendMoney.php",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 175,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								175,
-								175
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/PHP/PHP.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 2,
-					"type": "text"
-				},
-				{
-					"buffer": 8,
-					"file": "/home/webroot/bsTut/index.php",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 5283,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/PHP/PHP.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 1,
-					"type": "text"
-				},
-				{
-					"buffer": 9,
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 1004,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								361,
-								361
-							]
-						],
-						"settings":
-						{
-							"auto_indent": false,
-							"syntax": "Packages/Text/Plain text.tmLanguage",
-							"word_wrap": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
 					"type": "text"
 				}
 			]
